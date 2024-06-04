@@ -103,5 +103,5 @@
 </div>
 
 <p align="center">
-  ![Snake animation](https://github.com/aryannaik225/aryannaik225/blob/output/github-contribution-grid-snake.svg)
+ <img width="1000" src="assets/github-snake.svg" alt="snake"/>
 </p>
