@@ -101,5 +101,3 @@
 <div id="header" align="center">
   <img src="https://komarev.com/ghpvc/?username=aryannaik225&style=for-the-badge&color=orange" alt=""/>
 </div>
-
-![snake gif](https://github.com/aryannaik225/aryannaik225/blob/output/github-contribution-grid-snake.gif)
