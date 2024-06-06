@@ -13,7 +13,7 @@
 - 🔭 I’m currently working on [PokeNFT](https://github.com/aryannaik225/PokeNFT)
 - 🌱 I’m currently learning **React, MongoDB**
 - 💬 Ask me about **Python, Frontend**
-- 📫 How to reach me **aryannaik@gmail.com**
+- 📫 How to reach me **aryann2203@gmail.com**
 - ⚡ Fun fact: **I code for fun**
 
 <h3>Fields of Interest</h3>
