@@ -12,6 +12,7 @@
 
 - 🔭 I’m currently working on [PokeNFT](https://github.com/aryannaik225/PokeNFT)
 - 🌱 I’m currently learning **React, MongoDB**
+- 🎓 NPTEL Certifcation - from IIT Madras - The Joy of Computing using Python 
 - 💬 Ask me about **Python, Frontend**
 - 📫 How to reach me **aryann2203@gmail.com**
 - ⚡ Fun fact: **I code for fun**
