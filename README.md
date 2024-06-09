@@ -10,7 +10,7 @@
 <p>Located in Mumbai, Maharashtra</p>
 <p>I am pursuing BTech in Artificial Intelligence and Data Science</p>
 
-- 🔭 I’m currently working on [PokeNFT](https://github.com/aryannaik225/PokeNFT)
+- 🔭 I’m currently working on React based [Portfolio](https://github.com/aryannaik225/React-Portfolio/tree/main)
 - 🌱 I’m currently learning **[React, NextJs](https://github.com/aryannaik225/React)**
 - 🎓 NPTEL Certifcation - from IIT Madras - The Joy of Computing using Python 
 - 💬 Ask me about **Python, Frontend**
