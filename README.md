@@ -11,7 +11,7 @@
 <p>I am pursuing BTech in Artificial Intelligence and Data Science</p>
 
 - 🔭 I’m currently working on NextJs based **[Anonimo](https://github.com/aryannaik225/Anonimo)**
-- 🌱 I’m currently learning **[React, NextJs](https://github.com/aryannaik225/React)**
+- 🌱 I’m currently learning **React, NextJs**
 - 🎓 NPTEL Certifcation - from IIT Madras - The Joy of Computing using Python 
 - 💬 Ask me about **Python, Frontend**
 - 📫 How to reach me **aryann2203@gmail.com**
