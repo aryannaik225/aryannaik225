@@ -1,8 +1,4 @@
-<p align="center" dir="auto">
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/82e15927fe3a779d5bb243ed93d85f49768667c7251d713991e67888e522f207/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e7426746578743d48656c6c6f21266865696768743d3130302673656374696f6e3d686561646572"><img src="https://camo.githubusercontent.com/82e15927fe3a779d5bb243ed93d85f49768667c7251d713991e67888e522f207/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e7426746578743d48656c6c6f21266865696768743d3130302673656374696f6e3d686561646572" data-canonical-src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;text=Hello!&amp;height=100&amp;section=header" style="max-width: 100%;"></a>
-</p>
-
-<h1 align="center">I'm Aryan Naik</h1>
+<h1 align="center">Hi 👋, I'm Aryan Naik</h1>
 <h3 align="center">Building Seamless Web Interfaces with Passion</h3>
 
 <h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
@@ -25,7 +21,7 @@
 
 
 <h1 align="center">
-  Let's Connect and have a Chat!💬
+  My Socials 🙆
 </h1>
 
 <p align="center">
@@ -75,6 +71,15 @@
   </a>
   <a href="https://www.adobe.com/products/xd.html" rel="noreferrer">
       <img src="https://brandslogos.com/wp-content/uploads/thumbs/adobe-xd-logo-vector.svg" alt="xd" width="45" height="45"/>
+  </a>
+  <a href="https://react.dev" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="45" height="45" />
+  </a>
+  <a href="https://tailwindcss.com" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="react" width="45" height="45" />
+  </a>
+  <a href="https://www.mongodb.com" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="react" width="45" height="45" />
   </a>
 </p>
 
