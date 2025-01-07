@@ -6,7 +6,7 @@
 <p>Located in Mumbai, Maharashtra</p>
 <p>I am pursuing BTech in Artificial Intelligence and Data Science</p>
 
-- 🔭 I’m currently working on NextJs based **[Anonimo](https://github.com/aryannaik225/Anonimo)**
+- 🔭 I’m currently working on NextJs based **[Evolvra](https://github.com/aryannaik225/Evolvra)**
 - 🌱 I’m currently learning **React, NextJs**
 - 🎓 NPTEL Certifcation - from IIT Madras - The Joy of Computing using Python 
 - 💬 Ask me about **Python, Frontend**
