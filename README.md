@@ -107,3 +107,9 @@
 <div id="header" align="center">
   <img src="https://komarev.com/ghpvc/?username=aryannaik225&style=for-the-badge&color=orange" alt=""/>
 </div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aryannaik225/aryannaik225/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aryannaik225/aryannaik225/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/aryannaik225/aryannaik225/output/github-snake.svg" />
+</picture>
