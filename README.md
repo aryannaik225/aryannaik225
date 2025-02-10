@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aryan Naik</h1>
+<p align="center">
+  <img height="auto" src="https://camo.githubusercontent.com/9a8a172347387381df6a27431aa8cf5ee5615fab0ff82c7487e1d50581058c00/68747470733a2f2f36362e6d656469612e74756d626c722e636f6d2f37643566396338313431326330653532666137373564363430306465306563342f74756d626c725f7069707861654f736359317162796239356f385f3430302e676966"/>
+</p>
 <h3 align="center">Building Seamless Web Interfaces with Passion</h3>
 
 <h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
