@@ -9,8 +9,7 @@
 <p>Located in Mumbai, Maharashtra</p>
 <p>I am pursuing BTech in Artificial Intelligence and Data Science</p>
 
-- 🔭 I’m currently working on Python based **[AirMouse](https://github.com/aryannaik225/AirMouse)**
-- 🌱 I’m currently learning **React, NextJs**
+- 🌱 I’m currently learning **Data Structures and Algorithms**
 - 🎓 NPTEL Certifcation - from IIT Madras - The Joy of Computing using Python 
 - 💬 Ask me about **Python, Frontend**
 - 📫 How to reach me **aryann2203@gmail.com**
