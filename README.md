@@ -100,7 +100,7 @@
   
 <p align="center"><img width="800" height="220" src="https://streak-stats.demolab.com/?user=aryannaik225&theme=highcontrast&hide_border=true&border_radius=5"></p>
 
-
+<br/>
 
 <p align="center">
   <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=aryannaik225&show_icons=true&theme=vision-friendly-dark">
